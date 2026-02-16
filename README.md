@@ -21,7 +21,7 @@ I focus on creating **scalable, secure, and user-friendly applications** that so
 React.js, Tailwind CSS, HTML, CSS, JavaScript  
 
 **Backend:**  
-Node.js, Express.js  
+Node.js, Express.js, Java
 
 **Database & Auth:**  
 MongoDB, Firebase  
